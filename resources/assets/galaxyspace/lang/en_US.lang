@@ -52,12 +52,12 @@ achievement.bossmoongc=And that's all what you can do?
 achievement.bossmoongc.desc=Defeat the boss in the dungeon of the Moon.
 achievement.fallingmetallgc=Space Jewel
 achievement.fallingmetallgc.desc=Get the first piece of meteoric iron.
-achievement.jetpackgc=Creative? What for?
+achievement.jetpackgc=Creative? Seriously?
 achievement.jetpackgc.desc=Create a jetpack.
-achievement.rocket2gc=It Better!
+achievement.rocket2gc=It's Better!
 achievement.rocket2gc.desc=Create a Tier 2 Rocket.
 achievement.marsgc=Project: Mars One!
-achievement.marsgc.desc=Land on the Mars!
+achievement.marsgc.desc=Land on Mars!
 
 menu.update=Update [Galaxy Space]!
 
@@ -105,13 +105,13 @@ tile.FutureGlass_Brown.name=Brown Future Glass
 tile.FutureGlass_Blue.name=Blue Future Glass
 tile.FutureGlass_Purple.name=Purple Future Glass
 tile.FutureGlass_Cyan.name=Cyan Future Glass
-tile.FutureGlass_Lightgray.name=Lightgray Future Glass
+tile.FutureGlass_Lightgray.name=Light gray Future Glass
 tile.FutureGlass_Gray.name=Gray Future Glass
 tile.FutureGlass_Pink.name=Pink Future Glass
 tile.FutureGlass_Lime.name=Lime Future Glass
 tile.FutureGlass_Yellow.name=Yellow Future Glass
-tile.FutureGlass_Lightblue.name=Lightblue Future Glass
-tile.FutureGlass_Magneta.name=Magneta Future Glass
+tile.FutureGlass_Lightblue.name=Light blue Future Glass
+tile.FutureGlass_Magneta.name=Magenta Future Glass
 tile.FutureGlass_Orange.name=Orange Future Glass
 tile.FutureGlass_White.name=White Future Glass
 
@@ -225,7 +225,7 @@ tile.Barnarda2Dandelions.Dandelion1.name=Barnarda C Dandelion
 tile.Barnarda2Dandelions.Dandelion2.name=Barnarda C Dandelion 
 tile.Barnarda2Dandelion3.name=Barnarda C Dandelion 
 tile.Barnarda2Log.name=Barnarda C Log 
-tile.Barnarda2PlanksOak.name=Oak Planks from Barnarda C Log
+tile.Barnarda2PlanksOak.name=Barnarda C Planks
 tile.Sapling_1.name=Log Barnarda C Sapling 
 tile.Leaves_1.name=Barnarda C Leaves Log 
 tile.BarnardaEGrunt.name=Barnarda E Surface Block
@@ -237,7 +237,7 @@ tile.BarnardaFGrunt.name=Barnarda F Surface Block
 tile.BarnardaFSubGrunt.name=Barnarda F Subsurface Block
 tile.UnknowWater.name=Unknown Liquid
 tile.Barnarda2Reed.Reed1.name=Barnarda C Dandelion
-tile.Barnarda2Reed.Reed2.name=Barnarda C Dandelion with fruits
+tile.Barnarda2Reed.Reed2.name=Barnarda C Dandelion with Fruits
 tile.Stalactites.name=Ore Stalactite
 
 tile.VegaBGrunt.name=Vega B Surface Block
@@ -254,31 +254,31 @@ tile.TCetiEBlockDandelions.TCetiEDandelion5.name=T Ceti E Seaweed
 tile.TCetiEBlockDandelions.TCetiEDandelion6.name=T Ceti E Seaweed
 
 tile.AssemblyMachine.name=Assembly Machine
-tile.AssemblyMachine.desc=The advanced version of the compressor. Seals material a highly sensitive laser. One of the major mechanisms addon.
+tile.AssemblyMachine.desc=The advanced version of the compressor. Seals material using a highly sensitive laser. One of the major GS machines.
 tile.GeothermalGenerator.name=Geothermal Generator
-tile.GeothermalGenerator.desc=Geothermal Generator transforms the heat lava into energy.
+tile.GeothermalGenerator.desc=Geothermal Generator transforms heat from lava to energy.
 tile.FuelGenerator.name=Fuel Generator
-tile.FuelGenerator.desc=Fuel Generator consumes fuel and produces a good number of energy. A good option for fuel magnates.
+tile.FuelGenerator.desc=Fuel Generator consumes fuel and produces a good energy output. Useful if you have too many fuel and not enough rockets.
 tile.SolarWindPanel.name=Solar Wind Panel
 tile.SolarWindPanel.desc=It converts the solar wind into energy. It does not work on a planet's atmosphere.
 tile.ConverterSurface.name=Converter Surface
 tile.ConverterSurface.desc=Converts planetary ground in blocks of grass. Useful machine for terraforming the planet.
 tile.MachineFrame.name=Advanced Machine Frame
 tile.StorageModuleT3_4.name=Advanced Energy Cluster
-tile.StorageModule.desc=The advanced version of the Energy Cluster. It may store a large amount of energy.
+tile.StorageModule.desc=The advanced version of the Energy Cluster. Stores even more energy!
 tile.OxygenStorageModuleT2_4.name=Advanced Oxygen Module
-tile.OxygenStorageModule.desc=Improved version of Oxygen Storage. It can be stored in two more oxygen.
+tile.OxygenStorageModule.desc=Improved version of Oxygen Storage. Stores two times more oxygen.
 tile.SolarPanel.name=Hybrid Solar Panel
-tile.SolarHybrid.desc=Covered with gold hybrid panel, produces twice as much energy than the Advanced panel.
-tile.coefficient.desc=Coefficient generation
+tile.SolarHybrid.desc=Gold-plated, produces 2x more energy than the Advanced one..
+tile.coefficient.desc=Generation coefficiant
 tile.GravitationModule_4.name=Gravity Module
 tile.GravitationModule.desc=Creates Earth gravity within 8 blocks radius in all directions.
 
-tile.tier4chest.description=Treasure Chests 4th tier will be generated at Ceres. Available to open after kill the final boss.
-tile.tier5chest.description=Treasure Chests 5th tier will be generated at Io. Available to open after kill the final boss.
-tile.tier6chest.description=Treasure Chests 6th tier will be generated at Enceladus. Available to open after kill the final boss.
-tile.tier7chest.description=Treasure Chests 7th tier will be generated at Proteus. Available to open after kill the final boss.
-tile.tier8chest.description=Treasure Chests 8th tier will be generated at Pluto. Available to open after kill the final boss.
+tile.tier4chest.description=Tier 4 Treasure Chests will be generated at Ceres, after killing the boss.
+tile.tier5chest.description=Tier 5 Treasure Chests will be generated at Io, after killing the boss.
+tile.tier6chest.description=Tier 6 Treasure Chests will be generated at Enceladus, after killing the boss.
+tile.tier7chest.description=Tier 7 Treasure Chests will be generated at Proteus, after killing the boss.
+tile.tier8chest.description=Tier 8 Treasure Chests will be generated at Pluto, after killing the boss.
 
 item.SchematicTier4.name=NASA Workbench Schematic
 item.SchematicTier5.name=NASA Workbench Schematic
@@ -307,11 +307,11 @@ item.HeavyDutyPlate8.name=Heavy Duty Plate
 item.JetPack.name=Electric Jetpack
 item.lead_helmet.name=Lead Helmet
 item.lead_plate.name=Lead Chestplate
-item.lead_leg.name=Lead Leggins
+item.lead_leg.name=Lead Leggings
 item.lead_boots.name=Lead Boots
 item.cobaltum_helmet.name=Cobalt Helmet
 item.cobaltum_plate.name=Cobalt Chestplate
-item.cobaltum_leg.name=Cobalt Leggins
+item.cobaltum_leg.name=Cobalt Leggings
 item.cobaltum_boots.name=Cobalt Boots
 item.plasmasword.name=Plasma Sword
 item.plasmaaxe.name=Plasma Axe
@@ -321,7 +321,7 @@ item.plasmashovel.name=Plasma Shovel
 item.QuantBow.name=Quant Bow
 item.spacesuit_helmet.name=SpaceSuit Helmet
 item.spacesuit_plate.name=SpaceSuit Chestplate
-item.spacesuit_leg.name=SpaceSuit Leggins
+item.spacesuit_leg.name=SpaceSuit Leggings
 item.spacesuit_boots.name=SpaceSuit Boots
 
 item.spacesuit_helmetglasses.name=SpaceSuit Sensor Glasses
@@ -370,11 +370,11 @@ item.RocketConeT2.name=Durable Nose Cone Tier 2
 item.RocketEngineT2.name=Durable Rocket Engine Tier 2
 item.RocketBoosterT2.name=Booster Tier 2
 item.RocketStabilisatorT2.name=Durable Rocket Vane Tier 2
-item.PartSolarFlares.name=Part Solar Flares
+item.PartSolarFlares.name=Solar Flares Part
 item.SolarFlares.name=Solar Flares
 item.LeadBattery.name=Lead Battery
 item.UnknowWaterBucket.name=Bucket of Unknown Liquid
-item.BarnardaCStrawberry.name=Unknow Fruits
+item.BarnardaCStrawberry.name=Unknown Fruits
 
 item.biofuelCanister.name=Biofuel Canister
 
@@ -400,16 +400,16 @@ gui.hdp8.desc=Tier 8
 
 gui.thermal2.desc1=Tier 2
 gui.thermal2.desc2=Protection from Solar Radiation.
-gui.spacesuit.desc=Suit high strength. It stabilizes atmospheric pressure. Also, the helmet allows for longer under water.
+gui.spacesuit.desc=This suit has high strength, and regulates atmosphereic pressure. Also, the helmet allows for longer breath underwater.
 gui.ssglasses.desc=Integrated sensor glasses allow you to see ores in caves.
 gui.ssjetplate.desc=Integrated jetpack allows you to quickly move around the planets.
-gui.ssboots.desc=Integrated Magnesium plate heavier your weight.
+gui.ssboots.desc=Integrated Magnesium plate makes you heavier to counteract gravity.
 
 gui.module.desc=Rocket Module
-gui.status.nolava.name=No Lava
+gui.status.nolava.name=No Lava!
 gui.message.lava.name=Lava
 gui.message.water.name=Water
-gui.status.nofuelgenerator.name=No Fuel
+gui.status.nofuelgenerator.name=No Fuel!
 gui.warning.atmosphericPressure=High atmospheric pressure!
 gui.message.biofuel.name=[WIP] Biofuel
 
@@ -418,7 +418,7 @@ gui.info.red.name=Red
 gui.info.orange.name=Orange
 gui.info.yellow.name=Yellow
 gui.info.white.name=White
-gui.info.lightblue.name=Lightblue
+gui.info.lightblue.name=Light Blue
 
 gui.info.dwarf.name=Dwarf
 gui.info.subdwarf.name=Sub-Dwarf
@@ -454,21 +454,21 @@ gui.message.solarradiation=Solar Radiation:
 gui.message.unknown=Unknown
 gui.message.traveltime=Travel Time:
 
-gui.module.caninstall=Can install modules. Take this piece of armor in your hand and click Shift+Right Click.
+gui.module.caninstall=Can install modules. Take this piece of armor in your hand and Shift+Right Click.
 gui.module.installed=Installed Modules:
 gui.module.jetpack=Jetpack
-gui.message.jetpack=Need have Jetpack in your inventory!
+gui.message.jetpack=You must have a Jetpack in your inventory!
 gui.module.sensor=Sensor
-gui.message.sensor=Need have Sensor Glasses in your inventory!
+gui.message.sensor=You must have Sensor Glasses in your inventory!
 gui.module.gravitymodule=Gravity
-gui.message.gravitymodule=Need have 2 Compressed Magnesium in your inventory!
+gui.message.gravitymodule=You must have 2 Compressed Magnesium in your inventory!
 
 gui.message.effectVisible.name=Effects visible
 
 gui.quantbow.desc1=x1.5 Durability and x2 Damage!
 gui.quantbow.desc2=Fiery Arrows
 
-gs.success.name=Actual version Galaxy Space:
+gs.success.name=Actual version of Galaxy Space:
 
 itemGroup.AddonsBlocks=GalaxySpace: Blocks
 itemGroup.AddonsItems=GalaxySpace: Items
